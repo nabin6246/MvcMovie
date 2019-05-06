@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-MvcMovie/Views* linguist-vendored
+MvcMovie/Views/* linguist-vendored
